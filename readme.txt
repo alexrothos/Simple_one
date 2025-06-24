@@ -20,3 +20,6 @@ docker-compose exec postgres psql -U flaskuser -d flaskdb
 
 # Access Redis CLI
 docker-compose exec redis redis-cli
+
+git config --global user.name "alexrothos"
+git config --global user.email "alexrothos@gmail.com"
